@@ -11,5 +11,6 @@ public class DevOwnNotMerge {
 
 	public static void main(String... args) {
 		System.out.println("Dev own");
+		System.out.println("own modify");
 	}
 }
