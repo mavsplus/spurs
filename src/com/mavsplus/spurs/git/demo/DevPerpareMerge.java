@@ -11,5 +11,6 @@ public class DevPerpareMerge {
 
 	public static void main(String... args) {
 		System.out.println("prepare 2 merge");
+		System.out.println("prepare 2 merge add");
 	}
 }
