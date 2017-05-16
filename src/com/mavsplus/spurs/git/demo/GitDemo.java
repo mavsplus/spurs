@@ -12,5 +12,6 @@ public class GitDemo {
 		System.out.println("Hello,Git");
 		System.out.println("Local Modify");
 		System.out.println("Dev branch");
+		System.out.println("Dev branch");
 	}
 }
