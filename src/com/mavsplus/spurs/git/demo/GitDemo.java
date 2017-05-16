@@ -13,5 +13,6 @@ public class GitDemo {
 		System.out.println("Local Modify");
 		System.out.println("Modify Commit");
 		System.out.println("tranfer 2 windows");
+		System.out.println("xsj-fork-spurs");
 	}
 }
