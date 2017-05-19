@@ -8,5 +8,8 @@ package com.mavsplus.spurs.git.demo;
  * @since 1.8
  */
 public class DevRebase {
-
+	
+	public static void main(String[] args) {
+		System.out.println("rebase");
+	}
 }
